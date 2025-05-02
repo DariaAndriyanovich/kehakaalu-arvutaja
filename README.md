@@ -17,9 +17,9 @@ See on lihtne Python programm, mis arvutab kasutajate kehamassiindeksi (KMI) sis
 1. Veendu, et Python 3 on paigaldatud
 2. Käivita terminalis:
 
-   bash
-python kehakaalud.py
-3.Sisesta:
+```bash
+python kehakaalud.py ```
+3. Sisesta:
 Failinimi (tekstifail kaaludega)
 Pikkus (meetrites, nt 1.75)
 
