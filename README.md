@@ -19,6 +19,9 @@ See on lihtne Python programm, mis arvutab kasutajate kehamassiindeksi (KMI) sis
 
 ```bash
 python kehakaalud.py
+3.Sisesta:
+Failinimi (tekstifail kaaludega)
+Pikkus (meetrites, nt 1.75)
 
 ## 📘 Näide
 
@@ -34,4 +37,5 @@ Suurim KMI oli 39.18
 ## 👩‍💻 Autor  
 **Daria Andriyanovich**  
 University of Tartu – Estonian and Finno-Ugric Studies + Digital Humanities
+
 
