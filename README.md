@@ -20,18 +20,18 @@ See on lihtne Python programm, mis arvutab kasutajate kehamassiindeksi (KMI) sis
 ```bash
 python kehakaalud.py
 
-## 🧪 Näide
+## 📘 Näide
 
-Sisesta faili nimi: andmed.txt
-Sisesta pikkus: 1.75
-Kaal 55, KMI 17.96, Klass Alakaal
-Kaal 85, KMI 27.76, Klass Ülekaal
-Kaal 120, KMI 39.18, Klass Rasvumine
-Suurim KMI oli 39.18
-
+Sisesta faili nimi: andmed.txt  
+Sisesta pikkus: 1.75  
+Kaal 55, KMI 17.96, Klass Alakaal  
+Kaal 85, KMI 27.76, Klass Ülekaal  
+Kaal 120, KMI 39.18, Klass Rasvumine  
+Suurim KMI oli 39.18  
 
 ---
 
-## 👩‍💻 Author  
+## 👩‍💻 Autor  
 **Daria Andriyanovich**  
-University of Tartu — Estonian and Finno-Ugric Studies + Digital Humanities
+University of Tartu – Estonian and Finno-Ugric Studies + Digital Humanities
+
